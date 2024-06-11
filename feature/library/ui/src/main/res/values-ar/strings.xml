@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="library_editor">أداة تحرير المكتبة</string>
+    <string name="add_to_library">أضف إلى المكتبة</string>
+    <string name="words_filter">فلتر الكلمات</string>
+    <string name="icons_meanings">دلالات الرموز</string>
+    <string name="in_library">موجودة في المكتبة</string>
+    <string name="translation">ترجمة</string>
+
+    <string name="category_name">اسم الصنف</string>
+    <string name="category_description_optional">وصف الصنف (اختياري)</string>
+    <string name="initial_words_optional">الكلمات الأساسية (اختياري)</string>
+    <string name="word_name">اسم الكلمة</string>
+    <string name="word_description">وصف الكلمة</string>
+    <string name="word_language">لغة الكلمة</string>
+    <string name="word_type">نوع الكلمة</string>
+    <string name="word_categories_optional">أنواع الكلمة (اختياري)</string>
+    <string name="word_meaning_optional">معنى الكلمة (اختياري)</string>
+
+    <string name="word_input_name_label">الاسم مثل سيارة</string>
+    <string name="word_input_name_subtitle">أدخل الكلمة نفسها (إذا كانت أكثر من كلمة واحدة، أدخلها في الوصف، واترك هذا الحقل فارغًا)</string>
+    <string name="word_input_description_label">الوصف</string>
+    <string name="word_input_description_subtitle">صف هذه الكلمة ببعض الكلمات، يمكنك تركها فارغة إذا قمت بالفعل بإدراج اسم</string>
+    <string name="word_input_category_label">صنف</string>
+    <string name="word_input_category_subtitle">لكل صنف اسم، ابحث باسم الصنف، إذا لم يطابق إدخالك أي صنف موجود، فسيتم اعتبار إدخالك صنفًا جديدًا (قيم متعددة)</string>
+    <string name="word_input_meaning_label">المعنى</string>
+    <string name="word_input_meaning_subtitle">ابحث عن أي كلمة حفظتها من قبل والتي لها نفس المعنى مع هذه الكلمة (حتى إذا كانت بلغة مختلفة) لإضافة هذه الكلمة إلى معانيها، اتركه فارغًا إذا لم يكن هناك أي كلمة أخرى لها نفس المعنى</string>
+    <string name="word_input_type_label">نوع</string>
+    <string name="word_input_type_subtitle">نوع الكلمة (نوع الكلمة) وفقًا للغة المحددة، لكل لغة مجموعة محددة مسبقًا من أنواع الكلمات (مثل الاسم أو الفعل)، يجب عليك اختيار واحد من أنواع المتاحة</string>
+
+    <string name="category_input_name_label">الاسم مثل التكنولوجيا</string>
+    <string name="category_input_name_subtitle">إضافة اسم الصنف (مطلوب)، ستظهر اقتراحات لأسماء الفئات المطابقة التي تم إضافتها بالفعل، لا يمكنك حفظ نفس الصنف مرتين</string>
+    <string name="category_input_description_label">الوصف</string>
+    <string name="category_input_description_subtitle">صف هذا الصنف (اختياري)</string>
+    <string name="category_input_words_label">الكلمات الأساسية</string>
+    <string name="category_input_words_subtitle">ابحث عن كلمات وأضفها إلى الصنف، ولكل كلمة قمت بتحديدها، سيتم إضافة هذا الصنف إلى الفئات الخاصة بها</string>
+
+    <string name="filter_language">فلتر اللغة</string>
+    <string name="filter_type">فلتر النوع</string>
+    <string name="filter_category">فلتر الصنف</string>
+
+    <string name="sort_az">الترتيب الأبجدي</string>
+    <string name="sort_date">الترتيب حسب التاريخ</string>
+    <string name="sort_language">الترتيب حسب اللغة</string>
+    <string name="sort_type">الترتيب حسب النوع</string>
+    <string name="sort_category">الترتيب حسب الصنف</string>
+
+    <string name="moments_ago">منذ لحظات</string>
+    <string name="n_minutes_ago">%d دقيقة مضت</string>
+    <string name="n_hours_ago">%d ساعة مضت</string>
+    <string name="n_days_ago">%d يوم مضت</string>
+    <string name="n_weeks_ago">%d أسابيع مضت</string>
+    <string name="n_months_ago">%d شهر مضت</string>
+    <string name="n_years_ago">%d سنة مضت</string>
+    <string name="long_time_ago">منذ زمن بعيد</string>
+    <string name="name_description">name-description</string>
+</resources>

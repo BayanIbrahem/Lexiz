@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quiz_setup">إعداد الاختبار</string>
+    <string name="template_filter_groups">مجموعات الفلاتر المحفوظة</string>
+    <string name="template_filters">الفلاتر المحفوظة</string>
+</resources>

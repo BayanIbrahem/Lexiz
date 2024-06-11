@@ -1,0 +1,400 @@
+{
+  "name": "initial package",
+  "id": 1,
+  "version": 1,
+  "key": "1_FdN4hx9-8y4pav1yc0fe69HWkxiuqO3",
+  "languages": [
+    {
+      "version": 1,
+      "language_code": "en",
+      "interchangeables": [
+        [
+          "a",
+          "á",
+          "ä",
+          "ã",
+          "à",
+          "â",
+          "ă",
+          "ā",
+          "ȁ",
+          "ȃ",
+          "ǎ",
+          "ȧ",
+          "å",
+          "ą",
+          "ḁ"
+        ],
+        [
+          "e",
+          "è",
+          "é",
+          "ê",
+          "ë",
+          "ĕ",
+          "ė",
+          "ē",
+          "ȅ",
+          "ȇ",
+          "ě",
+          "ę",
+          "ḙ"
+        ],
+        [
+          "i",
+          "ì",
+          "í",
+          "î",
+          "ï",
+          "ĭ",
+          "ī",
+          "ȉ",
+          "ȋ",
+          "ǐ",
+          "į",
+          "ḭ"
+        ],
+        [
+          "o",
+          "ò",
+          "ó",
+          "ô",
+          "ö",
+          "õ",
+          "ŏ",
+          "ō",
+          "ȍ",
+          "ȏ",
+          "ǒ",
+          "ø",
+          "ő",
+          "ṑ"
+        ],
+        [
+          "u",
+          "ù",
+          "ú",
+          "û",
+          "ü",
+          "ŭ",
+          "ū",
+          "ȕ",
+          "ȗ",
+          "ǔ",
+          "ų",
+          "ṻ"
+        ]
+      ],
+      "ignorables": [
+        "-",
+        "'"
+      ],
+      "valid_chars": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v",
+        "w",
+        "x",
+        "y",
+        "z",
+        "á",
+        "ä",
+        "ã",
+        "à",
+        "â",
+        "ă",
+        "ā",
+        "ȁ",
+        "ȃ",
+        "ǎ",
+        "ȧ",
+        "å",
+        "ą",
+        "ḁ",
+        "è",
+        "é",
+        "ê",
+        "ë",
+        "ĕ",
+        "ė",
+        "ē",
+        "ȅ",
+        "ȇ",
+        "ě",
+        "ę",
+        "ḙ",
+        "ì",
+        "í",
+        "î",
+        "ï",
+        "ĭ",
+        "ī",
+        "ȉ",
+        "ȋ",
+        "ǐ",
+        "į",
+        "ḭ",
+        "ò",
+        "ó",
+        "ô",
+        "ö",
+        "õ",
+        "ŏ",
+        "ō",
+        "ȍ",
+        "ȏ",
+        "ǒ",
+        "ø",
+        "ő",
+        "ṑ",
+        "ù",
+        "ú",
+        "û",
+        "ü",
+        "ŭ",
+        "ū",
+        "ȕ",
+        "ȗ",
+        "ǔ",
+        "ų",
+        "ṻ",
+        "-",
+        "'"
+      ],
+      "types": [
+        {
+          "version": 1,
+          "id": 1,
+          "language_code": "en",
+          "name": "Noun",
+          "description": "Nouns represent people, places, things, or concepts. They can be concrete or abstract; concrete nouns are physical things that can be seen, touched, heard, or otherwise sensed (rocks, noise, grandma), and abstract nouns are nonphysical things that represent ideas (justice, philosophy, happiness). Proper nouns are a type of noun that represents something specific. For example, the noun person is a common noun used generally for anyone, but the proper noun Richard Attenborough represents a specific person. Proper nouns almost always use capitals for their first letter, like names."
+        },
+        {
+          "version": 1,
+          "id": 2,
+          "language_code": "en",
+          "name": "Verb",
+          "description": "Verbs represent actions and are the only word class that is absolutely necessary to make a complete sentence. You can conjugate verbs in different verb tenses to explain when an action takes place (past, present, or future) or combine them with auxiliaries for more advanced tenses like the present perfect tense or past continuous tense."
+        },
+        {
+          "version": 1,
+          "id": 3,
+          "language_code": "en",
+          "name": "Adjective",
+          "description": "Adjectives are words that modify or describe a noun. They add more details to the noun, such as color, size, or age."
+        },
+        {
+          "version": 1,
+          "id": 4,
+          "language_code": "en",
+          "name": "Adverb",
+          "description": "Similar to adjectives, adverbs modify or describe verbs, adjectives, or other adverbs. When describing verbs, they give details about how an action is performed, such as where, when, why, or how often."
+        },
+        {
+          "version": 1,
+          "id": 5,
+          "language_code": "en",
+          "name": "Auxiliary",
+          "description": "Also known as helper verbs or helping verbs, auxiliary verbs are a type of verb that assists the sentence’s main verb to create advanced tenses. For example, in the sentence 'They have arrived,' the main verb is arrived, but the auxiliary verb have is necessary to make the present perfect tense. Auxiliary verbs also include modal verbs like can or should, which slightly modify the meaning of the main verb. Some verbs like have, be, or do can be either regular verbs or auxiliary verbs."
+        },
+        {
+          "version": 1,
+          "id": 6,
+          "language_code": "en",
+          "name": "Preposition",
+          "description": "Prepositions are a special type of word class that indicates relationships between other words. Prepositions always use a noun, known as the preposition’s object, and typically describe where something is in relation to something else. When used to describe a verb, prepositions can explain when or where an action happened."
+        },
+        {
+          "version": 1,
+          "id": 7,
+          "language_code": "en",
+          "name": "Pronoun",
+          "description": "Pronouns are a type of noun used as a substitute for other nouns. They make communication easier and faster because you don’t have to repeat the same words over and over again."
+        },
+        {
+          "version": 1,
+          "id": 8,
+          "language_code": "en",
+          "name": "Determiner",
+          "description": "Determiners are words that come before a noun to explain which noun you’re referring to, the noun’s quantity, or whether the noun is general or specific. Determiners are important for grammar and include a few different types of words like articles, demonstratives, possessive pronouns, distributives, and quantifiers like many, much, and more."
+        },
+        {
+          "version": 1,
+          "id": 9,
+          "language_code": "en",
+          "name": "Conjunction",
+          "description": "Conjunctions like the word and are words that connect other words. Coordinating conjunctions link words, phrases, or clauses of the same kind, such as a series of nouns or two independent clauses. Subordinating conjunctions are only used to connect a dependent clause to an independent clause."
+        },
+        {
+          "version": 1,
+          "id": 10,
+          "language_code": "en",
+          "name": "Interjection",
+          "description": "Only used in informal communication, interjections show a sudden emotion. They attempt to mimic speech in writing and are often used together with exclamation points."
+        },
+        {
+          "version": 1,
+          "id": 11,
+          "language_code": "en",
+          "name": "Phrase",
+          "description": "Sometimes a group of words can work together to act as a single word. These groups of words, known as phrases, act as a single word class even when they include words of different classes."
+        },
+        {
+          "version": 1,
+          "id": 12,
+          "language_code": "en",
+          "name": "Numeral",
+          "description": "Numeral is a word or phrase that describes a numerical quantity."
+        },
+        {
+          "version": 1,
+          "id": 13,
+          "language_code": "en",
+          "name": "Article",
+          "description": "An article is any member of a class of dedicated words that are used with noun phrases to mark the identifiability of the referents of the noun phrases."
+        },
+        {
+          "version": 1,
+          "id": 14,
+          "language_code": "en",
+          "name": "Participle",
+          "description": "Participles are a particular form of verb that has two main purposes, Turn the verb into an adjective to modify nouns, or connect with auxiliary verbs to create different tenses, such as the present perfect tense."
+        },
+        {
+          "version": 1,
+          "id": 15,
+          "language_code": "en",
+          "name": "Infinitive",
+          "description": "Infinitives are a form of verb that allow the word or a group of words to be used as a noun, adjective, or adverb. Every type of verb can be put into the infinitive form, even phrasal verbs. "
+        },
+        {
+          "version": 1,
+          "id": 16,
+          "language_code": "en",
+          "name": "Gerund",
+          "description": "A gerund (pronounced JER-und) is a verb that’s acting as a noun. By that, we mean that the verb—the word that describes the action that’s happening, like 'biking', 'thinking', 'running', or 'speaking'—becomes a thing, a concept that can now be the sentence’s subject, direct object, indirect object, or the object of a preposition"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "language_code": "ar",
+      "interchangeables": [
+        [
+          "ا",
+          "آ",
+          "أ",
+          "إ"
+        ],
+        [
+          "ء",
+          "أ",
+          "إ",
+          "ؤ",
+          "ئ"
+        ]
+      ],
+      "ignorables": [
+        "ـ",
+        "ً",
+        "ٍ",
+        "ٌ",
+        "ّ",
+        "ْ",
+        "َ",
+        "ُ",
+        "ِ"
+      ],
+      "valid_chars": [
+        "ا",
+        "ب",
+        "ت",
+        "ث",
+        "ج",
+        "ح",
+        "خ",
+        "د",
+        "ذ",
+        "ر",
+        "ز",
+        "س",
+        "ش",
+        "ص",
+        "ض",
+        "ط",
+        "ظ",
+        "ع",
+        "غ",
+        "ف",
+        "ق",
+        "ك",
+        "ل",
+        "م",
+        "ن",
+        "ه",
+        "و",
+        "ي",
+        "ء",
+        "آ",
+        "أ",
+        "إ",
+        "ؤ",
+        "ئ",
+        "ة",
+        "ـ",
+        "ً",
+        "ٍ",
+        "ٌ",
+        "ّ",
+        "ْ",
+        "َ",
+        "ُ",
+        "ِ"
+      ],
+      "types": [
+        {
+          "version": 1,
+          "id": 17,
+          "language_code": "ar",
+          "name": "اسم",
+          "description": "الاسم هو كل كلمة يسمى بها الانسان أو الحيوان أو الجماد أو أي شيء آخر"
+        },
+        {
+          "version": 1,
+          "id": 18,
+          "language_code": "ar",
+          "name": "فعل",
+          "description": "الفعل هو ما يدل على معنى مقترن بزمان من الأزمنة الثلاث، وهو كل كلمة دلت على حصول الشيء في زمن ما"
+        },
+        {
+          "version": 1,
+          "id": 19,
+          "language_code": "ar",
+          "name": "حرف",
+          "description": "الحرف هو لفظ لا يحمل معنى بذاته إنما يكتسب معناه من السياق، فالحرف هو كل كلمة لا يظهر معناها في نفسها ويظهر إن انضمت إلى الأسماء والأفعال"
+        }
+      ]
+    }
+  ]
+}
+
+

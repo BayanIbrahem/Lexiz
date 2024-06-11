@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core/common" />
+            <option value="$PROJECT_DIR$/core/data" />
+            <option value="$PROJECT_DIR$/core/database" />
+            <option value="$PROJECT_DIR$/core/datastore" />
+            <option value="$PROJECT_DIR$/core/network" />
+            <option value="$PROJECT_DIR$/core/ui" />
+            <option value="$PROJECT_DIR$/feature" />
+            <option value="$PROJECT_DIR$/feature/library" />
+            <option value="$PROJECT_DIR$/feature/library/data" />
+            <option value="$PROJECT_DIR$/feature/library/domain" />
+            <option value="$PROJECT_DIR$/feature/library/ui" />
+            <option value="$PROJECT_DIR$/feature/quiz_builder" />
+            <option value="$PROJECT_DIR$/feature/quiz_builder/data" />
+            <option value="$PROJECT_DIR$/feature/quiz_builder/domain" />
+            <option value="$PROJECT_DIR$/feature/quiz_builder/ui" />
+            <option value="$PROJECT_DIR$/feature/quiz_runner" />
+            <option value="$PROJECT_DIR$/feature/quiz_runner/data" />
+            <option value="$PROJECT_DIR$/feature/quiz_runner/domain" />
+            <option value="$PROJECT_DIR$/feature/quiz_runner/ui" />
+            <option value="$PROJECT_DIR$/feature/statistics" />
+            <option value="$PROJECT_DIR$/feature/statistics/data" />
+            <option value="$PROJECT_DIR$/feature/statistics/domain" />
+            <option value="$PROJECT_DIR$/feature/statistics/ui" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

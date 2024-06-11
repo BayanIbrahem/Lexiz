@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_exist_label">اسم موجود</string>
+    <string name="name_exist_body">لا يمكنك استخدام هذا الاسم، فهو موجود بالفعل (غير حساس لحالة الأحرف)</string>
+
+    <string name="name_empty_label">مطلوب</string>
+    <string name="name_empty_body">لا يمكنك ترك هذا الحقل فارغًا</string>
+
+    <string name="input_not_exist_label">لم يتم مطابقة</string>
+    <string name="input_not_exist_body">إدخالك لا يطابق أي عنصر موجود</string>
+
+    <string name="input_invalid_label">غير صالح</string>
+    <string name="input_invalid_body">إدخالك يحتوي على واحد أو أكثر من الأحرف غير الصالحة</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="there_x">there is %s</string>
+    <string name="there_x_in_y">there is %s in %s</string>
+
+    <string name="no_x">no %s</string>
+    <string name="no_x_in_y">no %s in %s</string>
+    <string name="there_no_x">there are no %s</string>
+    <string name="there_no_x_in_y">there are no %s in %s</string>
+
+    <string name="x_of_y">%d of %d</string>
+
+    <string name="fill_all_before_save">fill all fields before save</string>
+    <string name="fill_any_before_save">fill at least one field before save</string>
+    <string name="fill_one_before_save">fill one field only before save</string>
+
+    <string name="fill_all_prev_before_save">fill all previous fields before save</string>
+    <string name="fill_any_prev_before_save">fill at least one of previous fields before save</string>
+    <string name="fill_one_prev_before_save">fill one field only one of previous fields before save</string>
+
+    <string name="fill_all_next_before_save">fill all next fields before save</string>
+    <string name="fill_any_next_before_save">fill at least one of next fields before save</string>
+    <string name="fill_one_next_before_save">fill one field only one of next fields before save</string>
+</resources>

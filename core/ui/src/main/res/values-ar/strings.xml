@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">الرئيسية</string>
+    <string name="library">المكتبة</string>
+    <string name="clear_selection">إلغاء التحديد</string>
+</resources>

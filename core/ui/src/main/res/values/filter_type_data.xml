@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- default name -->
+    <string name="filterType_type_defaultName">type filter (%s)</string>
+    <string name="filterType_category_defaultName">category filter (%s)</string>
+    <string name="filterType_length_defaultName">length filter (%s)</string>
+    <string name="filterType_difficulty_defaultName">difficulty filter (%s)</string>
+    <string name="filterType_failure_defaultName">failure filter (%s)</string>
+    <string name="filterType_success_defaultName">success filter (%s)</string>
+    <string name="filterType_failurePercent_defaultName">failure percent filter (%s)</string>
+    <string name="filterType_successPercent_defaultName">success percent filter (%s)</string>
+
+    <!-- res name -->
+    <string name="filterType_type_resName">Type</string>
+    <string name="filterType_category_resName">Category</string>
+    <string name="filterType_length_resName">Length</string>
+    <string name="filterType_difficulty_resName">Difficulty</string>
+    <string name="filterType_failure_resName">Failure</string>
+    <string name="filterType_success_resName">Success</string>
+    <string name="filterType_failurePercent_resName">Failure(%)</string>
+    <string name="filterType_successPercent_resName">Success(%)</string>
+
+    <!-- res hint -->
+    <string name="filterType_type_resHint">word type</string>
+    <string name="filterType_category_resHint">word category</string>
+    <string name="filterType_length_resHint">word length</string>
+    <string name="filterType_difficulty_resHint">word difficulty (%)</string>
+    <string name="filterType_failure_resHint">failure times </string>
+    <string name="filterType_success_resHint">success times</string>
+    <string name="filterType_failurePercent_resHint">most/less failure</string>
+    <string name="filterType_successPercent_resHint">most/less success</string>
+
+
+</resources>

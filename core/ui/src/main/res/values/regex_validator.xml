@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_null">%s cannot be empty.</string>
+    <string name="input_invalid">%s has invalid character (\'%s\' is invalid).</string>
+    <string name="input_match">%s is valid.</string>
+    <string name="input_short">%s is too short</string>
+    <string name="input_long">%s is too long</string>
+    <string name="input_no_char">%s must contain at least one alphabetic character.</string>
+    <string name="input_no_lowercase">%s must contain at least one lowercase letter.</string>
+    <string name="input_no_uppercase">%s must contain at least one uppercase letter.</string>
+    <string name="input_no_digit">%s must contain at least one digit.</string>
+    <string name="input_no_special">%s must contain at least one special character.</string>
+    <string name="input_no_dash">%s must contains at least one dash</string>
+    <string name="input_no_underscore">%s must contains at least one underscore.</string>
+    <string name="input_no_dot">%s must contains at least one dot.</string>
+    <string name="input_start_no_char">%s must start with an alphabetic character, (not %s)</string>
+    <string name="input_start_no_lowercase">%s must start with a lowercase letter, (not %s)</string>
+    <string name="input_start_no_uppercase">%s must start with an uppercase letter, (not %s)</string>
+    <string name="input_start_no_digit">%s must start with a digit (not %s)</string>
+    <string name="input_start_no_special">%s must start with a special character like (!@#$%^&amp;*), (not %s)</string>
+    <string name="input_start_no_dash">%s must start with a dash, (not %s)</string>
+    <string name="input_start_no_underscore">%s must start with an underscore, (not %s)</string>
+    <string name="input_start_no_dot">%s must start with a dot, (not %s)</string>
+    <string name="input_end_no_char">%s must end with an alphabetic character, (not %s)</string>
+    <string name="input_end_no_lowercase">%s must end with a lowercase letter, (not %s)</string>
+    <string name="input_end_no_uppercase">%s must end with an uppercase letter, (not %s)</string>
+    <string name="input_end_no_digit">%s must end with a digit, (not %s)</string>
+    <string name="input_end_no_special">%s must end with a special character like (!@#$%^&amp;*), (not %s)</string>
+    <string name="input_end_no_dash">%s must end with a dash, (not %s)</string>
+    <string name="input_end_no_underscore">%s must end with an underscore, (not %s)</string>
+    <string name="input_end_no_dot">%s must end with a dot, (not %s)</string>
+    <string name="input_invalid_char">%s contains an invalid character, (character \'%s\' is invalid)</string>
+    <string name="input_invalid_lowercase">%s contains an invalid lowercase letter, (letter %s is invalid)</string>
+    <string name="input_invalid_uppercase">%s contains an invalid uppercase letter, (letter %s is invalid)</string>
+    <string name="input_invalid_digit">%s contains an invalid digit, (digit %s is invalid)</string>
+    <string name="input_invalid_special">%s contains an invalid special character, (character \'%s\' is invalid)</string>
+    <string name="input_invalid_dash">%s contains an invalid dash, (dash %s is invalid)</string>
+    <string name="input_invalid_underscore">%s contains an invalid underscore, (underscore %s is invalid)</string>
+    <string name="input_invalid_dot">%s contains an invalid dot, (dot %s is invalid)</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="all">كل</string>
+    <string name="any">أي</string>
+    <string name="every">جميع</string>
+    <string name="some">بعض</string>
+    <string name="none">لاشيء</string>
+
+    <string name="saved">محفوظ</string>
+    <string name="edited">معدل</string>
+
+    <string name="notifications">إشعارات</string>
+</resources>

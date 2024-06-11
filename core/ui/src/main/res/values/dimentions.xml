@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_screen_padding">8dp</dimen>
+    <dimen name="main_screen_content_spacedBy">8dp</dimen>
+
+    <!-- some times there is one main container in the screen and this contains smaller containers-->
+    <dimen name="main_container_padding">8dp</dimen>
+    <dimen name="main_container_content_spacedBy">8dp</dimen>
+
+    <dimen name="floating_primary_dialog_corner_size">12dp</dimen>
+    <dimen name="floating_primary_dialog_padding">8dp</dimen>
+
+    <dimen name="navigation_bottomBar_total_height">84dp</dimen>
+    <dimen name="navigation_bottomBar_destination_vertical_padding">8dp</dimen>
+
+    <dimen name="navigation_rail_total_width">96dp</dimen>
+    <dimen name="navigation_rail_icon_size">64dp</dimen>
+    <dimen name="navigation_rail_icon_padding">8dp</dimen>
+    <dimen name="navigation_rail_destinations_padding">5dp</dimen>
+    <dimen name="navigation_rail_destinations_spacedBy">4dp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quizBuilder_setup_defaultSubscreenTitle" translatable="false">Edit Content</string>
+    <!--    todo-->
+    <string name="create_quiz">Create Quiz</string>
+    <string name="new_filter_group">New Filter Group</string>
+    <string name="template_quizes">Template Quizes</string>
+    <string name="quiz_setup">quiz setup</string>
+    <string name="template_filter_groups">template filter groups</string>
+    <string name="template_filters">template filters</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="introScreenDimen_introCard_borderStroke">2dp</dimen>
+    <dimen name="introScreenDimen_introCard_bottomPadding">8dp</dimen>
+
+</resources>

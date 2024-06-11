@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xth">%s رقم %d</string>
+    <string name="the_xth">%s الرقم %d</string>
+
+    <!-- normal no-the -->
+    <string name="first">أول %s</string>
+    <string name="second">ثاني %s</string>
+    <string name="third">ثالث %s</string>
+    <string name="fourth">رابع %s</string>
+    <string name="fifth">خامس %s</string>
+    <string name="sixth">سادس %s</string>
+    <string name="seventh">سابع %s</string>
+    <string name="eighth">ثامن %s</string>
+    <string name="ninth">تاسع %s</string>
+    <string name="tenth">عاشر %s</string>
+
+    <string name="the_first">%s الأول</string>
+    <string name="the_second">%s الثاني</string>
+    <string name="the_third">%s الثالث</string>
+    <string name="the_fourth">%s الرابع</string>
+    <string name="the_fifth">%s الخامس</string>
+    <string name="the_sixth">%s السادس</string>
+    <string name="the_seventh">%s السابع</string>
+    <string name="the_eighth">%s الثامن</string>
+    <string name="the_ninth">%s التاسع</string>
+    <string name="the_tenth">%s العاشر</string>
+
+    <!-- brief no-the -->
+    <string name="_1st">أول %s</string>
+    <string name="_2nd">ثاني %s</string>
+    <string name="_3rd">ثالث %s</string>
+    <string name="_4th">رابع %s</string>
+    <string name="_5th">خامس %s</string>
+    <string name="_6th">سادس %s</string>
+    <string name="_7th">سابع %s</string>
+    <string name="_8th">ثامن %s</string>
+    <string name="_9th">تاسع %s</string>
+    <string name="_10th">عاشر %s</string>
+
+    <!--brief the-->
+    <string name="the_1st">%s الأول</string>
+    <string name="the_2nd">%s الثاني</string>
+    <string name="the_3rd">%s الثالث</string>
+    <string name="the_4th">%s الرابع</string>
+    <string name="the_5th">%s الخامس</string>
+    <string name="the_6th">%s السادس</string>
+    <string name="the_7th">%s السابع</string>
+    <string name="the_8th">%s الثامن</string>
+    <string name="the_9th">%s التاسع</string>
+    <string name="the_10th">%s العاشر</string>
+</resources>

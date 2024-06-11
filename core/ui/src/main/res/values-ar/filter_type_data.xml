@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- default name -->
+    <string name="filterType_type_defaultName">فلتر النوع (%s)</string>
+    <string name="filterType_category_defaultName">فلتر الصنف (%s)</string>
+    <string name="filterType_length_defaultName">فلتر الطول (%s)</string>
+    <string name="filterType_difficulty_defaultName">فلتر الصعوبة (%s)</string>
+    <string name="filterType_failure_defaultName">فلتر الفشل (%s)</string>
+    <string name="filterType_success_defaultName">فلتر النجاح (%s)</string>
+    <string name="filterType_failurePercent_defaultName">فلتر الفشل (نسبة) (%s)</string>
+    <string name="filterType_successPercent_defaultName">فلتر النجاح (نسبة) (%s)</string>
+
+    <!-- res name -->
+    <string name="filterType_type_resName">النوع</string>
+    <string name="filterType_category_resName">الصنف</string>
+    <string name="filterType_length_resName">الطول</string>
+    <string name="filterType_difficulty_resName">الصعوبة</string>
+    <string name="filterType_failure_resName">الفشل</string>
+    <string name="filterType_success_resName">النجاح</string>
+    <string name="filterType_failurePercent_resName">الفشل(%)</string>
+    <string name="filterType_successPercent_resName">النجاح(%)</string>
+
+    <!-- res hint -->
+    <string name="filterType_type_resHint">نوع الكلمة</string>
+    <string name="filterType_category_resHint">صنف الكلمة</string>
+    <string name="filterType_length_resHint">طول الكلمة</string>
+    <string name="filterType_difficulty_resHint">صعوبة الكلمة (%)</string>
+    <string name="filterType_failure_resHint">عدد مرات الفشل </string>
+    <string name="filterType_success_resHint">عدد مرات النحاح</string>
+    <string name="filterType_failurePercent_resHint">الأقل/الأكثر فشلا</string>
+    <string name="filterType_successPercent_resHint">الأقل/الأكثر نجاح</string>
+</resources>

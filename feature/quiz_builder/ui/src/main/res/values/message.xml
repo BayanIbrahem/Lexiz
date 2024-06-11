@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_language_body">select first language (asking language) and second language (answering language) for the quiz</string>
+    <string name="show_first_language_types_subtitle">show first language types only (require select first language in quiz)</string>
+    <string name="show_first_language_categories_subtitle">show only categories that have words in first language (require select first language in quiz)</string>
+    <string name="hide_extra_types">hide extra types</string>
+    <string name="hide_extra_categories">hide extra categories</string>
+
+    <string name="quiz_filterGroup_description">select from saved filters groups</string>
+    <string name="quiz_newGroup_description">every filterType group must achieves all its filterTypes, you can add new filterTypes, add filterTypes from templates, edit or remove them, as one filterType group is achieved, then the word is belong to quiz regardless to other groups…</string>
+    <string name="quiz_templateFilter_description">Select one of the saved filterTypes</string>
+    <string name="quiz_newFilter_description">every filter contains only one constrain that is added to filter groups…</string>
+
+    <!--    quiz preferences-->
+    <string name="quiz_preferences_wordTime_title">max time for word</string>
+    <string name="quiz_preferences_wordTime_hint">set max time for each word</string>
+
+    <string name="quiz_preferences_wordsCount_title">max words count</string>
+    <string name="quiz_preferences_wordsCount_hint">set maximum allowed number of different words</string>
+
+    <string name="save_rule">save (rule based)</string>
+    <string name="save_words">save (word based)</string>
+    <string name="save_copy_rule">save a copy(rule based)</string>
+    <string name="save_copy_words">save a copy (word based)</string>
+
+    <string name="save_rule_description">save this quiz rules to templates (words list will updated when add/remove words in library)</string>
+    <string name="save_words_description">save this quiz words to template (this quiz will have fixed words and it won\'t update when add or remove words in library)</string>
+    <string name="save_copy_rule_description">saving a new copy of this quiz (words list will updated when add/remove words in library)</string>
+    <string name="save_copy_words_description">saving a new copy of this quiz (this quiz will have fixed words and it won\'t update when add or remove words in library)</string>
+    <string name="reset_changes_description">reset current changes to template quiz</string>
+    <string name="consume_description">delete this quiz template after finishing</string>
+
+    <string name="save_copy_rule_disabled_description">this option only for saved quizzes</string>
+    <string name="save_words_disabled_description">this option only for saved quizzes</string>
+    <string name="reset_changes_disapled_description">this option only for saved quizzes</string>
+    <string name="consume_disapled_description">this option only for saved quizzes</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="quizBuilder_filterItem_instanceWidth">96.dp</dimen>
+    <dimen name="quizBuilder_filterItem_templateWidth">96.dp</dimen>
+    <dimen name="quizBuilder_filterItem_instanceSpacedBy">16.dp</dimen>
+    <dimen name="quizBuilder_filterItem_templateSpacedBy">12.dp</dimen>
+    <dimen name="quizBuilder_filterItem_listHeight">156.dp</dimen>
+    <dimen name="quizBuilder_newFilterGroup_dialogWidth">350.dp</dimen>
+    <dimen name="quizBuilder_filterItem_selectionOptionsSpacedBy">8.dp</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_exist_label">name exists</string>
+    <string name="name_exist_body">you can\'t use this name, it is already used (case insensitive)</string>
+
+    <string name="name_empty_label">required</string>
+    <string name="name_empty_body">you can\'t left this field empty</string>
+
+    <string name="input_not_exist_label">not match</string>
+    <string name="input_not_exist_body">your input doesn\'t mach any existed item</string>
+
+    <string name="input_invalid_label">invalid</string>
+    <string name="input_invalid_body">your input has one or more invalid character</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_invalid_body">النص المُدخل ليس لغة صالحة</string>
+    <string name="type_invalid_body">النص المُدخل ليس نوعاً صالحاً ضمن اللغة المختارة</string>
+
+    <string name="category_existed_name">الاسم الذي أدخلته يعتبر نفس الاسم لصنف محفوظ (%s)</string>
+    <string name="category_empty_name">اسم التصنيف لا يمكن أن يكون فارغاً</string>
+</resources>

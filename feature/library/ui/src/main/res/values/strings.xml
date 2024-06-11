@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="library_editor">library editor</string>
+    <string name="add_to_library">add to library</string>
+    <string name="words_filter">words filterType</string>
+    <string name="icons_meanings">Icons Meanings</string>
+    <string name="in_library">in library</string>
+    <string name="translation">translation</string>
+
+    <!-- library editor steps titles -->
+    <string name="category_name">category name</string>
+    <string name="category_description_optional">category description (optional)</string>
+    <string name="initial_words_optional">initial words (optional)</string>
+    <string name="word_name">word name</string>
+    <string name="word_description">word description</string>
+    <string name="word_language">word language</string>
+    <string name="word_type">word type</string>
+    <string name="word_categories_optional">word categories (optional)</string>
+    <string name="word_meaning_optional">word meaning (optional)</string>
+
+    <!-- library editor word name description input fields-->
+    <string name="word_input_name_label">name e.g car</string>
+    <string name="word_input_name_subtitle">enter the spilling of the word itself (if it was more than one word then enter it in description, and left this empty)</string>
+    <string name="word_input_description_label">description</string>
+    <string name="word_input_description_subtitle">describe this word with some words, you can let it empty if you already inserted a name</string>
+    <!-- library editor word category name description-->
+    <string name="word_input_category_label">category</string>
+    <string name="word_input_category_subtitle">for each category there is a name, search by category name, if your input does not match any existed category then your input will be counted as a new category (multi vlaue)</string>
+    <!-- library editor word meaning name-->
+    <string name="word_input_meaning_label">meaning</string>
+    <string name="word_input_meaning_subtitle">search by any word you saved before which has same meaning with this word (even if in different language) to add this word to its meanings, left it empty if there is no other word has the same meaning</string>
+    <!-- library editor word category name description-->
+    <string name="word_input_type_label">type</string>
+    <string name="word_input_type_subtitle">type or (word class) of the current word according to selected language, each language has already set of defined words classes (like noun or verb), you must choose one of available types</string>
+
+    <!-- library editor category name description input fields-->
+    <string name="category_input_name_label">name e.g tech</string>
+    <string name="category_input_name_subtitle">add category name (required), suggestions will appear of matching categroes names which are already added, you can\'t save the same category twice</string>
+    <string name="category_input_description_label">description</string>
+    <string name="category_input_description_subtitle">describe this category (optional)</string>
+    <!-- library editor category initial words-->
+    <string name="category_input_words_label">initial words</string>
+    <string name="category_input_words_subtitle">search for words and add them to the category, for each word you selected this category will be added to the categories of it</string>
+
+    <!--    filterType-->
+    <string name="filter_language">language filterType</string>
+    <string name="filter_type">type filterType</string>
+    <string name="filter_category">category filterType</string>
+
+    <string name="sort_az">alphabetical sort</string>
+    <string name="sort_date">sort by date</string>
+    <string name="sort_language">sort by language</string>
+    <string name="sort_type">sort by type</string>
+    <string name="sort_category">sort by category</string>
+
+    <!-- fuzzy last update date-->
+    <string name="moments_ago">"moments ago"</string>
+    <string name="n_minutes_ago">%d minutes ago</string>
+    <string name="n_hours_ago">%d hours ago</string>
+    <string name="n_days_ago">%d days ago</string>
+    <string name="n_weeks_ago">%d weeks ago</string>
+    <string name="n_months_ago">%s months ago</string>
+    <string name="n_years_ago">%s years ago</string>
+    <string name="long_time_ago">long time ago</string>
+    <string name="name_description">name-description</string>
+</resources>

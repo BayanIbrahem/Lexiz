@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_language_body">اختر أول لغة (لغة السؤال) وثاني لغة (لغة الجواب) ضمن الاختبار</string>
+    <string name="show_first_language_types_subtitle">إظهار أنواع الكلمات ضمن اللغة الأولى فقط (يتطلب اختيار اللغة الأولى ضمن الاختبار)</string>
+    <string name="show_first_language_categories_subtitle">إظهار فقط الأنواع التي تحوي كلمات ضمن اللغة الأولى (يتطلب اختيار اللغة الأولى ضمن الاختبار)</string>
+    <string name="hide_extra_types">اخفاء الأنواع الإضافية</string>
+    <string name="hide_extra_categories">إخفاء الأصناف الإضافية</string>
+
+    <string name="quiz_filterGroup_description">اختر من مجموعات الفلاتر المحفوظة</string>
+    <string name="quiz_newGroup_description">يجب أن تحقق كل مجموعة من مجموعات الفلاتر جميع الفلاتر الخاصة بها. يمكنك إضافة فلاتر جديدة، وإضافة فلاتر محفوظة، وتعديلها أو إزالتها. بمجرد تحقيق مجموعة فلاتر واحدة، فإن الكلمة تنتمي إلى الاختبار بغض النظر عن المجموعات الأخرى…</string>
+    <string name="quiz_templateFilter_description">اختر أحد الفلاتر المحفوظة</string>
+    <string name="quiz_newFilter_description">يحتوي كل فلتر على قيد واحد فقط يضاف إلى مجموعة الفلاتر…</string>
+
+    <string name="quiz_preferences_wordTime_title">الحد الأقصى لوقت الكلمة</string>
+    <string name="quiz_preferences_wordTime_hint">تعيين الحد الأقصى للوقت لكل كلمة</string>
+
+    <string name="quiz_preferences_wordsCount_title">الحد الأقصى لعدد الكلمات</string>
+    <string name="quiz_preferences_wordsCount_hint">تعيين الحد الأقصى المسموح به لعدد الكلمات المختلفة</string>
+
+    <string name="save_rule">حفظ (وفقًا للقواعد)</string>
+    <string name="save_words">حفظ (وفقًا للكلمات)</string>
+    <string name="save_copy_rule">حفظ نسخة (وفقًا للقواعد)</string>
+    <string name="save_copy_words">حفظ نسخة (وفقًا للكلمات)</string>
+
+    <string name="save_rule_description">حفظ قواعد هذا الاختبار (سيتم تحديث قائمة الكلمات عند إضافة / إزالة كلمات في المكتبة)</string>
+    <string name="save_words_description">حفظ كلمات هذا الاختبار (سيكون لهذا الاختبار كلمات ثابتة ولن يتم تحديثه عند إضافة أو إزالة كلمات في المكتبة)</string>
+    <string name="save_copy_rule_description">حفظ نسخة جديدة من هذا الاختبار (سيتم تحديث قائمة الكلمات عند إضافة / إزالة كلمات في المكتبة)</string>
+    <string name="save_copy_words_description">حفظ نسخة جديدة من هذا الاختبار (سيكون لهذا الاختبار كلمات ثابتة ولن يتم تحديثه عند إضافة أو إزالة كلمات في المكتبة)</string>
+    <string name="reset_changes_description">إعادة تعيين التغييرات الحالية إلى اختبار القالب</string>
+    <string name="consume_description">حذف الاختبار هذا بعد الانتهاء</string>
+
+    <string name="save_copy_rule_disabled_description">هذا الخيار مخصص للاختبارات المحفوظة فقط</string>
+    <string name="save_words_disabled_description">هذا الخيار مخصص للاختبارات المحفوظة فقط</string>
+    <string name="reset_changes_disapled_description">هذا الخيار مخصص للاختبارات المحفوظة فقط</string>
+    <string name="consume_disapled_description">هذا الخيار مخصص للاختبارات المحفوظة فقط</string>
+</resources>

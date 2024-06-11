@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="filter_type_effect_shallow_bypass">هذا الفلتر يتحقق من جميع الأنواع الحالية في قاعدة البيانات الخاصة بك. لذلك، سيتحقق من جميع الكلمات ما لم تقم بإضافة المزيد من اللغات ثم أضفت كلمات جديدة باستخدام الأنواع الجديدة.</string>
+    <string name="filter_type_effect_barrier">لا توجد أنواع محددة في هذا الفلتر. سيحظر أي كلمة مهما كانت.</string>
+
+    <string name="filter_category_effect_shallow_bypass">هذا الفلتر يتحقق من جميع الفئات الحالية في قاعدة البيانات الخاصة بك. لذلك، سيتحقق من جميع الكلمات (باستثناء الكلمات التي ليس لها فئة) ما لم تقم بإضافة المزيد من الفئات ثم أضفت كلمات جديدة باستخدام هذه الفئات الجديدة.</string>
+    <string name="filter_category_effect_barrier">لا توجد فئات محددة في هذا الفلتر. سيحظر أي كلمة مهما كانت (إلا إذا لم يكن للكلمة فئات).</string>
+
+    <string name="filter_length_effect_bypass">نطاق الطول الصالح هو من 1 إلى ما لا نهاية، وهذا يشمل أي طول كلمة في العالم، لذلك لن يفعل هذا الفلتر شيئًا.</string>
+    <string name="filter_length_effect_shallow_bypass">نطاق الطول الصالح يتحقق من جميع الكلمات الحالية في قاعدة البيانات، ولكن يمكنك إضافة بعض الكلمات الأطول من أطول كلمة حالية والتي لن يتم التحقق منها.</string>
+    <string name="filter_length_effect_shallow_barrier">الحد الأدنى للطول الصالح أكبر من أطول كلمة في قاعدة البيانات الخاصة بك، لذلك لن يتحقق من أي كلمة ما لم تقم بإضافة بعض الكلمات الطويلة لاحقًا.</string>
+    <string name="filter_length_effect_barrier">أقصى طول صالح هو 0، وهذا لن يتحقق من أي كلمة أبدًا!</string>
+
+    <string name="filter_difficulty_effect_bypass">نطاق النسبة المئوية للصعوبة الصالحة هو من 0 إلى 100، وهذا يتحقق من جميع الكلمات!</string>
+    <string name="filter_difficulty_effect_barrier">يحتوي هذا الفلتر على مستوى نسبة مئوية غير صالح، مما لن يتحقق من أي كلمة.</string>
+
+    <string name="filter_failure_effect_bypass">نطاق الفشل الصالح هو من 0 إلى ما لا نهاية، وهذا يشمل أي كلمة قد تكون في قاعدة البيانات الخاصة بك الآن أو لاحقًا، لذلك لن يفعل هذا الفلتر شيئًا.</string>
+    <string name="filter_failure_effect_shallow_bypass">نطاق الفشل الصالح يتحقق من جميع الكلمات الحالية في قاعدة البيانات، ولكن إذا فشلت في كلمة مرات أكثر من أكثر الكلمات فشلًا حاليًا، فلن يتم التحقق منها.</string>
+    <string name="filter_failure_effect_shallow_barrier">الحد الأدنى للطول الصالح أكبر من أطول كلمة في قاعدة البيانات الخاصة بك، لذلك لن يتحقق من أي كلمة ما لم تقم بإضافة بعض الكلمات الطويلة لاحقًا.</string>
+    <string name="filter_failure_effect_barrier">أقصى طول صالح هو 0، وهذا لن يتحقق من أي كلمة أبدًا!</string>
+
+    <string name="filter_success_effect_bypass">نطاق النجاح الصالح هو من 0 إلى ما لا نهاية، مما يعني أن أي كلمة قد تكون في قاعدة البيانات الخاصة بك الآن أو لاحقًا، لذلك لن يقوم هذا الفلتر بأي شيء.</string>
+    <string name="filter_success_effect_shallow_bypass">يتحقق نطاق النجاح الصالح من صحة جميع الكلمات الحالية في قاعدة البيانات، ولكن إذا فشلت في كلمة مرات أكثر من أكثر الكلمات فشلًا حاليًا، فلن يتم التحقق من صحتها.</string>
+    <string name="filter_success_effect_shallow_barrier">الحد الأدنى للطول الصالح أكبر من أطول كلمة في قاعدة البيانات الخاصة بك، لذلك لن يتحقق من صحة أي كلمة ما لم تقم بإضافة بعض الكلمات الطويلة لاحقًا.</string>
+    <string name="filter_success_effect_barrier">أقصى طول صالح هو 0، وهذا لن يتحقق من صحة أي كلمة على الإطلاق!</string>
+
+    <string name="filter_failure_percent_effect_bypass">نطاق النسبة المئوية للفشل الصالح هو من 0 إلى 100، مما يتحقق من صحة جميع الكلمات!</string>
+    <string name="filter_failure_percent_effect_barrier">هذا الفلتر يحتوي على مستوى نسبة مئوية غير صالح ولن يتحقق من صحة أي كلمة.</string>
+
+    <string name="filter_success_percent_effect_bypass">نطاق النسبة المئوية للنجاح الصالح هو من 0 إلى 100، مما يتحقق من صحة جميع الكلمات!</string>
+    <string name="filter_success_percent_effect_barrier">هذا الفلتر يحتوي على مستوى نسبة مئوية غير صالح ولن يتحقق من صحة أي كلمة.</string>
+</resources>

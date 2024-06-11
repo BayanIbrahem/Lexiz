@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_null">يجب ألا يكون %s فارغًا.</string>
+    <string name="input_invalid">%s يحوي حرف غير صالح (\'%s\' غير صالح).</string>
+    <string name="input_match">%s صالح.</string>
+    <string name="input_short">%s قصير</string>
+    <string name="input_long">%s طويل</string>
+    <string name="input_no_char">يجب أن يحتوي %s على حرف أبجدي انكليزي واحد على الأقل.</string>
+    <string name="input_no_lowercase">يجب أن يحتوي %s على حرف صغير واحد على الأقل.</string>
+    <string name="input_no_uppercase">يجب أن يحتوي %s على حرف كبير واحد على الأقل.</string>
+    <string name="input_no_digit">يجب أن يحتوي %s على رقم واحد على الأقل.</string>
+    <string name="input_no_special">يجب أن يحتوي %s على رمز خاص واحد على الأقل.</string>
+    <string name="input_no_dash">يجب أن يحتوي %s على شرطة واحدة على الأقل</string>
+    <string name="input_no_underscore">يجب أن يحتوي %s على شرطة سفلية واحدة على الأقل</string>
+    <string name="input_no_dot">يجب أن يحتوي %s على نقطة واحدة على الأقل</string>
+    <string name="input_start_no_char">يجب أن يبدأ %s بحرف أبجدي انكليزي ، (ليس %s)</string>
+    <string name="input_start_no_lowercase">يجب أن يبدأ %s بحرف صغير ، (ليس %s)</string>
+    <string name="input_start_no_uppercase">يجب أن يبدأ %s بحرف كبير ، (ليس %s)</string>
+    <string name="input_start_no_digit">يجب أن يبدأ %s برقم ، (ليس %s)</string>
+    <string name="input_start_no_special">يجب أن يبدأ %s بعلامة خاصة مثل (!#@%^&amp;*) ، (ليس %s)</string>
+    <string name="input_start_no_dash">يجب أن يبدأ %s بشرطة</string>
+    <string name="input_start_no_underscore">يجب أن يبدأ %s بشرطة سفلية</string>
+    <string name="input_start_no_dot">يجب أن يبدأ %s بنقطة</string>
+    <string name="input_end_no_char">يجب أن ينتهي %s بحرف أبجدي انكليزي ، (ليس %s)</string>
+    <string name="input_end_no_lowercase">يجب أن ينتهي %s بحرف صغير ، (ليس %s)</string>
+    <string name="input_end_no_uppercase">يجب أن ينتهي %s بحرف كبير ، (ليس %s)</string>
+    <string name="input_end_no_digit">يجب أن ينتهي %s برقم ، (ليس %s)</string>
+    <string name="input_end_no_special">يجب أن ينتهي %s بعلامة خاصة مثل (!#@%^&amp;*) ، (ليس %s)</string>
+    <string name="input_end_no_dash">يجب أن ينتهي %s بشرطة، (ليس %s)</string>
+    <string name="input_end_no_underscore">يجب أن ينتهي %s بشرطة سفلية، (ليس %s)</string>
+    <string name="input_end_no_dot">يجب أن ينتهي %s بنقطة، (ليس %s)</string>
+    <string name="input_invalid_char">يحتوي %s على حرف غير صالح ، الحرف %s غير صالح</string>
+    <string name="input_invalid_lowercase">يحتوي %s على حرف صغير غير صالح ، الحرف %s غير صالح.</string>
+    <string name="input_invalid_uppercase">يحتوي %s على حرف كبير غير صالح ، الحرف %s غير صالح.</string>
+    <string name="input_invalid_digit">يحتوي %s على رقم غير صالح ، الرقم %s غير صالح.</string>
+    <string name="input_invalid_special">يحتوي %s على حرف خاص غير صالح ، الحرف %s غير صالح.</string>
+    <string name="input_invalid_dash">يحتوي %s على شرطة غير صالحة ، الشرطة %s غير صالحة.</string>
+    <string name="input_invalid_underscore">يحتوي %s على شرطة سفلية غير صالحة ، الشرطة السفلية %s غير صالحة.</string>
+    <string name="input_invalid_dot">يحوي %s على نقطة، النقطة %s غير صالحة.</string>
+</resources>

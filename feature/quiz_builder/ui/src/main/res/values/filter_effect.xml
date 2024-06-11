@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="filter_type_effect_bypass" translatable="false" />
+    <string name="filter_type_effect_shallow_bypass">this filter validate all current types in your database if you so it will validate all words unless you added more languages and then added new words using the new types</string>
+    <string name="filter_type_effect_active" translatable="false" />
+    <string name="filter_type_effect_shallow_barrier" translatable="false" />
+    <string name="filter_type_effect_barrier">no selected types in this filter it will block any word whatever it is</string>
+
+    <string name="filter_category_effect_bypass" translatable="false" />
+    <string name="filter_category_effect_shallow_bypass">this filter validate all current categories in your database if you so it will validate all words (except the words without any category) unless you added more categories and then added new words using these new categories</string>
+    <string name="filter_category_effect_active" translatable="false" />
+    <string name="filter_category_effect_shallow_barrier" translatable="false" />
+    <string name="filter_category_effect_barrier">no selected categories in this filter it will block any word whatever it is (unless if the word has no categories)</string>
+
+    <string name="filter_length_effect_bypass">valid length range is from 1 to infinity which absolutely any word length in the world so this filter will does nothing</string>
+    <string name="filter_length_effect_shallow_bypass">the valid length range validate all current words in the database but you can add some words that is longer that the current longest word which won\'t be validated</string>
+    <string name="filter_length_effect_active" translatable="false" />
+    <string name="filter_length_effect_shallow_barrier">the minimum valid length is larger that the longest word in your database, so it won\'t validate any word unless you added some long words later</string>
+    <string name="filter_length_effect_barrier">most valid length is 0, and this will never validate any word!</string>
+
+    <string name="filter_difficulty_effect_bypass">valid difficulty percentage range is from 0 to 100 which validate all words!</string>
+    <string name="filter_difficulty_effect_shallow_bypass" translatable="false" />
+    <string name="filter_difficulty_effect_active" translatable="false" />
+    <string name="filter_difficulty_effect_shallow_barrier" translatable="false" />
+    <string name="filter_difficulty_effect_barrier">this filter has invalid percent level which will not validate any word</string>
+
+    <string name="filter_failure_effect_bypass">valid failure range is from 0 to infinity which absolutely any word may be in your database now or later so this filter will does nothing</string>
+    <string name="filter_failure_effect_shallow_bypass">the valid failure range validate all current words in the database but if you failed in a word times more than the current most failed word it would not be validated</string>
+    <string name="filter_failure_effect_active" translatable="false" />
+    <string name="filter_failure_effect_shallow_barrier">the minimum valid length is larger that the longest word in your database, so it won\'t validate any word unless you added some long words later</string>
+    <string name="filter_failure_effect_barrier">most valid length is 0, and this will never validate any word!</string>
+
+    <string name="filter_success_effect_bypass">valid success range is from 0 to infinity which absolutely any word may be in your database now or later so this filter will does nothing</string>
+    <string name="filter_success_effect_shallow_bypass">the valid success range validate all current words in the database but if you failed in a word times more than the current most failed word it would not be validated</string>
+    <string name="filter_success_effect_active" translatable="false" />
+    <string name="filter_success_effect_shallow_barrier">the minimum valid length is larger that the longest word in your database, so it won\'t validate any word unless you added some long words later</string>
+    <string name="filter_success_effect_barrier">most valid length is 0, and this will never validate any word!</string>
+
+    <string name="filter_failure_percent_effect_bypass">valid failure percentage range is from 0 to 100 which validate all words!</string>
+    <string name="filter_failure_percent_effect_shallow_bypass" translatable="false" />
+    <string name="filter_failure_percent_effect_active" translatable="false" />
+    <string name="filter_failure_percent_effect_shallow_barrier" translatable="false" />
+    <string name="filter_failure_percent_effect_barrier">this filter has invalid percent level which will not validate any word</string>
+
+    <string name="filter_success_percent_effect_bypass">valid success percentage range is from 0 to 100 which validate all words!</string>
+    <string name="filter_success_percent_effect_shallow_bypass" translatable="false" />
+    <string name="filter_success_percent_effect_active" translatable="false" />
+    <string name="filter_success_percent_effect_shallow_barrier" translatable="false" />
+    <string name="filter_success_percent_effect_barrier">this filter has invalid percent level which will not validate any word</string>
+</resources>

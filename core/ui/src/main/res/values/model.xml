@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    without 'the' without number -->
+    <plurals name="item">
+        <item quantity="zero">no items</item>
+        <item quantity="one">item</item>
+        <item quantity="other">items</item>
+    </plurals>
+
+    <plurals name="language">
+        <item quantity="zero">no languages</item>
+        <item quantity="one">language</item>
+        <item quantity="other">languages</item>
+    </plurals>
+
+    <plurals name="type">
+        <item quantity="zero">no types</item>
+        <item quantity="one">type</item>
+        <item quantity="other">types</item>
+    </plurals>
+
+    <plurals name="category">
+        <item quantity="zero">no categories</item>
+        <item quantity="one">category</item>
+        <item quantity="other">categories</item>
+    </plurals>
+
+    <plurals name="meaning">
+        <item quantity="zero">no meanings</item>
+        <item quantity="one">meaning</item>
+        <item quantity="other">meanings</item>
+    </plurals>
+
+    <plurals name="word">
+        <item quantity="zero">no words</item>
+        <item quantity="one">word</item>
+        <item quantity="other">words</item>
+    </plurals>
+
+    <plurals name="quiz">
+        <item quantity="zero">no quizzes</item>
+        <item quantity="one">quiz</item>
+        <item quantity="other">quizzes</item>
+    </plurals>
+
+    <plurals name="group">
+        <item quantity="zero">no groups</item>
+        <item quantity="one">group</item>
+        <item quantity="other">groups</item>
+    </plurals>
+
+    <plurals name="filter">
+        <item quantity="zero">no filters</item>
+        <item quantity="one">filter</item>
+        <item quantity="other">filters</item>
+    </plurals>
+
+
+    <!--    wih 'the'-->
+    <plurals name="the_item">
+        <item quantity="zero">no items</item>
+        <item quantity="one">the item</item>
+        <item quantity="other">the items</item>
+    </plurals>
+
+    <plurals name="the_language">
+        <item quantity="zero">no languages</item>
+        <item quantity="one">the language</item>
+        <item quantity="other">the languages</item>
+    </plurals>
+
+    <plurals name="the_type">
+        <item quantity="zero">no types</item>
+        <item quantity="one">the type</item>
+        <item quantity="other">the types</item>
+    </plurals>
+
+    <plurals name="the_category">
+        <item quantity="zero">no categories</item>
+        <item quantity="one">the category</item>
+        <item quantity="other">the categories</item>
+    </plurals>
+
+    <plurals name="the_meaning">
+        <item quantity="zero">no meanings</item>
+        <item quantity="one">the meaning</item>
+        <item quantity="other">the meanings</item>
+    </plurals>
+
+    <plurals name="the_word">
+        <item quantity="zero">no words</item>
+        <item quantity="one">the word</item>
+        <item quantity="other">the words</item>
+    </plurals>
+
+    <plurals name="the_quiz">
+        <item quantity="zero">no quizzes</item>
+        <item quantity="one">the quiz</item>
+        <item quantity="other">the quizzes</item>
+    </plurals>
+
+    <plurals name="the_group">
+        <item quantity="zero">no groups</item>
+        <item quantity="one">the group</item>
+        <item quantity="other">the groups</item>
+    </plurals>
+
+    <plurals name="the_filter">
+        <item quantity="zero">no filters</item>
+        <item quantity="one">the filter</item>
+        <item quantity="other">the filters</item>
+    </plurals>
+
+
+    <!--    with number-->
+    <plurals name="item_number">
+        <item quantity="zero">no items</item>
+        <item quantity="one">one item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+
+    <plurals name="language_number">
+        <item quantity="zero">no languages</item>
+        <item quantity="one">one language</item>
+        <item quantity="other">%d languages</item>
+    </plurals>
+
+    <plurals name="type_number">
+        <item quantity="zero">no types</item>
+        <item quantity="one">one type</item>
+        <item quantity="other">%d types</item>
+    </plurals>
+
+    <plurals name="category_number">
+        <item quantity="zero">no categories</item>
+        <item quantity="one">one category</item>
+        <item quantity="other">%d categories</item>
+    </plurals>
+
+    <plurals name="meaning_number">
+        <item quantity="zero">no meanings</item>
+        <item quantity="one">one meaning</item>
+        <item quantity="other">%d meanings</item>
+    </plurals>
+
+    <plurals name="word_number">
+        <item quantity="zero">no words</item>
+        <item quantity="one">one word</item>
+        <item quantity="other">%d words</item>
+    </plurals>
+
+    <plurals name="quiz_number">
+        <item quantity="zero">no quizzes</item>
+        <item quantity="one">one quiz</item>
+        <item quantity="other">%d quizzes</item>
+    </plurals>
+
+    <plurals name="group_number">
+        <item quantity="zero">no groups</item>
+        <item quantity="one">one group</item>
+        <item quantity="other">%d groups</item>
+    </plurals>
+
+    <plurals name="filter_number">
+        <item quantity="zero">no filters</item>
+        <item quantity="one">one filter</item>
+        <item quantity="other">%d filters</item>
+    </plurals>
+</resources>

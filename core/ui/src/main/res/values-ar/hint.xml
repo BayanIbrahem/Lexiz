@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="there_x">هناك %s</string>
+    <string name="there_x_in_y">يوجد %s في %s</string>
+
+    <string name="no_x">لا %s</string>
+    <string name="no_x_in_y">لا %s في %s</string>
+    <string name="there_no_x">لا يوجد %s</string>
+    <string name="there_no_x_in_y">لا يوجد %s في %s</string>
+
+    <string name="x_of_y">%d من %d</string>
+
+    <string name="fill_all_before_save">املأ كل الحقول قبل الحفظ</string>
+    <string name="fill_any_before_save">املأ حقلاً واحدًا على الأقل قبل الحفظ</string>
+    <string name="fill_one_before_save">املأ حقلاً واحدًا فقط قبل الحفظ</string>
+
+    <string name="fill_all_prev_before_save">املأ جميع الحقول السابقة قبل حفظ</string>
+    <string name="fill_any_prev_before_save">املأ حقلاً واحدًا على الأقل من الحقول السابقة قبل حفظ</string>
+    <string name="fill_one_prev_before_save">املأ حقلاً واحداً فقط من الحقول السابقة قبل حفظ</string>
+
+    <string name="fill_all_next_before_save">املأ جميع الحقول التالية قبل حفظ</string>
+    <string name="fill_any_next_before_save">املأ حقلاً واحدًا على الأقل من الحقول التالية قبل حفظ</string>
+    <string name="fill_one_next_before_save">املأ حقلاً واحداً فقط من الحقول التالية قبل حفظ</string>
+</resources>
